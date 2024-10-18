@@ -20,7 +20,7 @@ Pré-requisitos:
 Para começar, clone o repositório onde o script será armazenado:
 
 ```
-[git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/EndlssNightmare/AutHTB.git)
+https://github.com/EndlssNightmare/AutHTB.git
 ```
 
 Após clonar o repositório, você precisa dar permissão de execução ao script:
