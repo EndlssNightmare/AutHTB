@@ -13,7 +13,7 @@ Pré-requisitos:
        * ffuf
        * nmap
        * jq
-       * Wordlists do SecLists
+       * SecLists
 
 ## Instalação e Uso
 
